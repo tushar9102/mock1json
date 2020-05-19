@@ -1,15 +1,15 @@
-
+{
 {
 "GroupCode": "582",
 "Id": "#3736",
 "name": "Pizza"
 },
 {
-  "Id": "3745"
-"colour": "#0076BC"
+  "Id": "3745",
+"colour": "#0076BC",
 "name" : "Sides"
 }
-
+}
 
 
 
