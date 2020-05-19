@@ -1,27 +1,10 @@
 {
-"product":[
-  {
-  "category":[
-    {
-    "elecronic":[
-      {
-      "laptop":[
-        {
-        "data": [
-  {
-    "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
-    "name": "Sport Shoes",
-    "price": 110
-  } 
-]
-        } 
-     ]
-      }
-    ]
-    }
-  ]
-  }
-]
+{
+"GroupCode": 582,
+"Id": 3736,
+"colour": #0076bc,
+"name": Pizza
+}
 }
 
 
